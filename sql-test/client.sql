@@ -1,1 +1,1 @@
-SELECT * FROM database;
+SELECT attribute FROM client_segmentation;
